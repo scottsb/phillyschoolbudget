@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Scott Buchanan -- Developer, Team Lead -- @thescottsb
+    Tom Mount -- Developer -- @tmountjr
+    Oren Panitch -- Developer -- @opanitch
+    Liz Brown -- UX/UI Designer -- @lizbrownsays
+
+# THANKS
+
+    @DrexelCCI -- #phillycodefest
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    initializr.com
+    jQuery, D3.js
+    Parse.com
