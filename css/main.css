@@ -1,7 +1,3 @@
-/* ==========================================================================
-   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
-   ========================================================================== */
-
 html,
 button,
 input,
@@ -73,17 +69,17 @@ body {
     ALL: Orange Theme
    =================== */
 
-.header-container {
+header {
     border-bottom: 20px solid #e44d26;
 }
 
-.footer-container,
+footer,
 .main aside {
     border-top: 20px solid #e44d26;
 }
 
-.header-container,
-.footer-container,
+header,
+footer,
 .main aside {
     background: #f16529;
 }
@@ -145,14 +141,6 @@ nav a:hover {
     padding: 20px 0;
 }
 
-/* ===============
-    ALL: IE Fixes
-   =============== */
-
-.ie7 .title {
-    padding-top: 20px;
-}
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -196,19 +184,6 @@ nav a:hover {
     nav li:last-child a {
         margin-right: 0;
     }
-
-/* ========================
-    INTERMEDIATE: IE Fixes
-   ======================== */
-
-    nav ul li {
-        display: inline;
-    }
-
-    .oldie nav a {
-        margin: 0 0.7%;
-    }
-}
 
 @media only screen and (min-width: 768px) {
 
