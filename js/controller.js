@@ -1,6 +1,21 @@
+PSB.Controller = (function ($) {
+	"use strict";
+
+	return {
+		init: function () {
+			PSB.Model.init();
+			PSB.View.init();
+			return this;
+		},
+
+		handleError: function(msg) {
+			alert(msg);
+		}
+	};
+}(jQuery));
+
 jQuery(function ($) {
 	"use strict";
 
-	var model = PSB.Model.init();
-	var view = PSB.View.init();
+	PSB.Controller.init()
 });
