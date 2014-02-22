@@ -1,77 +1,35 @@
-html,
-button,
-input,
-select,
-textarea {
-    color: #222;
-}
+html, button, input, select, textarea { color: #222; }
 
-body {
-    font-size: 1em;
-    line-height: 1.4;
-}
+body { font-size: 1em; line-height: 1.4; }
 
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
+::-moz-selection { background: #b3d4fc; text-shadow: none; }
 
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
+::selection { background: #b3d4fc; text-shadow: none; }
 
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
+hr { height:1px; margin: 1em 0; padding: 0; display:block; border: 0; border-top: 1px solid #ccc; }
 
-img {
-    vertical-align: middle;
-}
+img { vertical-align: middle; }
 
-fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
+fieldset { border:0; margin:0; padding:0; }
 
-textarea {
-    resize: vertical;
-}
+textarea { resize:vertical; }
 
-.chromeframe {
-    margin: 0.2em 0;
-    background: #ccc;
-    color: #000;
-    padding: 0.2em 0;
-}
+.chromeframe { margin:0.2em 0; padding:0.2em 0; background:#ccc; color:#000; }
 
 
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
    ========================================================================== */
 
-body {
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
-}
+body { font: 16px/26px Helvetica, Helvetica Neue, Arial; }
 
-.wrapper {
-    width: 90%;
-    margin: 0 5%;
-}
+.wrapper { width: 90%; margin: 0 5%; }
 
 /* ===================
     ALL: Orange Theme
    =================== */
 
-header {
-    border-bottom: 20px solid #e44d26;
-}
+header { border-bottom: 20px solid #e44d26; }
 
 footer,
 .main aside {
