@@ -1,4 +1,4 @@
-BudgetView = (function ($) {
+PSB.View = (function ($) {
 	"use strict";
 
 	// private methods go here...
@@ -6,6 +6,8 @@ BudgetView = (function ($) {
 	return {
 		init: function () {
 			// constructor...
+
+			return this;
 		}
 
 		// public methods go here...

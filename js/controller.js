@@ -1,6 +1,6 @@
 jQuery(function ($) {
 	"use strict";
 
-	BudgetModel.init();
-	BudgetView.init();
+	var model = PSB.Model.init();
+	var view = PSB.View.init();
 });

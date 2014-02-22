@@ -1,4 +1,4 @@
-BudgetModel = (function ($) {
+PSB.Model = (function ($) {
 	"use strict";
 
 	// private methods go here...
@@ -6,6 +6,8 @@ BudgetModel = (function ($) {
 	return {
 		init: function () {
 			// constructor...
+
+			return this;
 		}
 
 		// public methods go here...
