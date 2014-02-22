@@ -1,31 +1,28 @@
 <!doctype html>
-<!--[if lt IE 7]> <html class="ie6 no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="ie7 no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="ie8 no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if IE 9 ]>    <html class="ie9" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Philly School Budget Visualization</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        
-        <!--<link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+        <!--
+        <link rel="icon" href="favicon.ico" type="image/x-icon" />
         <link rel="shortcut icon" href="" type="image/x-icon" />
         <link rel="apple-touch-icon" href="" />
-        
+
         <meta property="og:title" content=" " />
         <meta property="og:description" content=" " />
-        <meta property="og:image" content=" " />-->
-        
+        <meta property="og:image" content=" " />
+        -->
+
         <!-- CSS Reset -->
 		<link rel="stylesheet" type="text/css" media="screen" href="css/normalize.min.css">
         <!-- Main Stylesheet -->
 		<link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
         <!-- for launch <link rel="stylesheet" type="text/css" media="screen" href="css/main.min.css" /> -->
         <!-- Plugins -->
-        
 	</head>
 	<body>
 		<header class="wrapper clearfix">
@@ -53,14 +50,15 @@
 			<h3>footer</h3>
             <div class="menuTab"></div>
 		</footer>
-        
-        <!-- Load JQuery CDN -->
-        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-        <script type="text/javascript">!window.jQuery && document.write('<script src="js/jquery-1.10.1.min.js"><\/script>')</script>
-		<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
-		<script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.2.16.min.js"></script>
 
-		<script src="js/main.js"></script>
+        <!-- Load JQuery CDN -->
+		<script src="js/jquery-1.10.1.min.js"></script>
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="http://www.parsecdn.com/js/parse-1.2.16.min.js"></script>
+
+		<script src="js/model.js"></script>
+		<script src="js/view.js"></script>
+		<script src="js/controller.js"></script>
 
 		<!-- TODO: Set up GA.
 		<script>
