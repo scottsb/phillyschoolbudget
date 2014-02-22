@@ -2,26 +2,28 @@
 	<budgetNode type="Category" name="School Budgets" amount="">
 		<budgetNode type="Sub-Category" name="District-Operated Schools" amount="">
 			<budgetNode type="Functional Area" name="Elementary - K-8 Education" amount="">
-				<budgetNode type="Cost Center" name="Cost of Fulltime Positions" amount="">
-					<fundingType name="Operating" amount="646273294">
+				<costCenter name="Cost of Fulltime Positions">
+					<fundingType name="Operating" amount="268638396">
 						<!--<fundingSource name="Federal Grant ABC" amount="">-->
 					</fundingType>
-					<fundingType name="Categorical" amount="">
+					<fundingType name="Categorical" amount="59787102">
 						<!--<fundingSource name="Federal Grant ABC" amount="">-->
 					</fundingType>
-				</budgetNode>
-				<budgetNode type="Cost Center" name="Insurance Recoveries" amount="">
+				</costCenter>
+				<costCenter name="Insurance Recoveries">
 					<fundingType name="Operating" amount="-8372145" />
-					<fundingType name="Categorical" amount="" />
-				</budgetNode>
-				<budgetNode type="Cost Center" name="Turnover and Delayed Hiring" amount="">
+				</costCenter>
+				<costCenter name="Turnover and Delayed Hiring">
 					<fundingType name="Operating" amount="-11698322" />
-					<fundingType name="Categorical" amount="" />
-				</budgetNode>
-				<budgetNode type="Cost Center" name="Per Diem Substitute Service" amount="">
-					<fundingType name="Operating" amount="11991095" />
-					<fundingType name="Categorical" amount="" />
-				</budgetNode>
+				</costCenter>
+				<costCenter name="Per Diem Substitute Service">
+					<fundingType name="Operating" amount="4557" />
+					<fundingType name="Categorical" amount="0" />
+				</costCenter>
+				<costCenter name="Overtime">
+					<fundingType name="Operating" amount="227285" />
+					<fundingType name="Categorical" amount="8038" />
+				</costCenter>
 			</budgetNode>
 		</budgetNode>
 	</budgetNode>
