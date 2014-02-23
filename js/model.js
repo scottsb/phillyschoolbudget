@@ -1,12 +1,17 @@
 PSB.Model = (function ($) {
 	"use strict";
 
+	var BudgetRoot = Parse.Object.extend("BudgetRoot");
+	var BudgetNode = Parse.Object.extend("BudgetNode");
+	var CostCenter = Parse.Object.extend("CostCenter");
+	var FundingType = Parse.Object.extend("FundingType");
+
 	function _handleParseError(errObj) {
 		PSB.Controller.handleError('Parse Error ' + errObj.code + ': ' + errObj.message);
 	}
 
 	function _fetchChildNodes(parentNode, successCallback) {
-		var query = new Parse.Query(BudgetRoot);
+		var query = new Parse.Query(BudgetNode);
 		query.equalTo("parent", parentNode).find({
 			success: successCallback,
 			error: _handleParseError
@@ -19,7 +24,9 @@ PSB.Model = (function ($) {
 
 	return {
 		init: function () {
-			// TODO: Set up Parse authentication
+			Parse.initialize(
+				"kfsmOGmVzW3UKCb3S0gpMpq6aEs7M7AG7dum0Osy",
+				"NVHRaFSafDWCnknX4ckxDavdvcfWqD9bmN2KiI1u");
 
 			return this;
 		},
@@ -28,7 +35,6 @@ PSB.Model = (function ($) {
 		 * Fetch the root budget level from which all other categories descend.
 		 */
 		fetchBudgetRoot: function (successCallback) {
-			var BudgetRoot = Parse.Object.extend("BudgetRoot");
 			var query = new Parse.Query(BudgetRoot);
 			query.limit(1).first({
 				success: function(rootNode) {
