@@ -1,7 +1,6 @@
 PSB.Model = (function ($) {
 	"use strict";
 
-	var BudgetRoot = Parse.Object.extend("BudgetRoot");
 	var BudgetNode = Parse.Object.extend("BudgetNode");
 	var CostCenter = Parse.Object.extend("CostCenter");
 	var FundingType = Parse.Object.extend("FundingType");
@@ -35,8 +34,8 @@ PSB.Model = (function ($) {
 		 * Fetch the root budget level from which all other categories descend.
 		 */
 		fetchBudgetRoot: function (successCallback) {
-			var query = new Parse.Query(BudgetRoot);
-			query.limit(1).first({
+			var query = new Parse.Query(BudgetNode);
+			query.doesNotExist('parent').limit(1).first({
 				success: function(rootNode) {
 					if (rootNode) {
 						_fetchChildNodes(rootNode, function (childNodes) {
