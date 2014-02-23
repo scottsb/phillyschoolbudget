@@ -1,7 +1,7 @@
 <budgetRoot>
-	<budgetNode type="Category" name="School Budgets" amount="">
-		<budgetNode type="Sub-Category" name="District Operated Schools - Instructional" amount="1314656037">
-			<budgetNode type="Functional Area" name="Elementary - K-8 Education" amount="509911885">
+	<budgetNode name="School Budgets" amount="">
+		<budgetNode name="District Operated Schools - Instructional" amount="1314656037">
+			<budgetNode name="Elementary - K-8 Education" amount="509911885">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="268638396">
 						<!--<fundingSource name="Federal Grant ABC" amount="">-->
@@ -26,7 +26,7 @@
 				</costCenter>
 				<!--etc-->
 			</budgetNode>
-			<budgetNode type="Functional Area" name="Middle School Education" amount="83111090">
+			<budgetNode name="Middle School Education" amount="83111090">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="46638691" />
 					<fundingType name="Categorical" amount="5589549" />
@@ -47,8 +47,8 @@
 				</costCenter>
 			</budgetNode>
 		</budgetNode>
-		<budgetNode type="Sub-Category" name="District Operated Schools - Instructional Support" amount="37693456">
-			<budgetNode type="Functional Area" name="Professional Development" amount="22925763">
+		<budgetNode name="District Operated Schools - Instructional Support" amount="37693456">
+			<budgetNode name="Professional Development" amount="22925763">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="0" />
 					<fundingType name="Categorical" amount="9252637" />
@@ -69,16 +69,16 @@
 					<fundingType name="Categorical" amount="2477377" />
 				</costCenter>
 			</budgetNode>
-			<budgetNode type="Functional Area" name="Partnership Schools - EMOs -- Additional Payments" amount="0">
+			<budgetNode name="Partnership Schools - EMOs -- Additional Payments" amount="0">
 				<costCenter name="Contracted Serv-Prof/Tech">
 					<fundingType name="Operating" amount="0" />
 				</costCenter>
 			</budgetNode>
 		</budgetNode>
 	</budgetNode>
-	<budgetNode type="Category" name="Administrative Support Operations" amount="">
-		<budgetNode type="Sub-Category" name="Chief Academic Officer" amount="39877347">
-			<budgetNode type="Functional Area" name="Chief Academic Office" amount="4725486">
+	<budgetNode name="Administrative Support Operations" amount="">
+		<budgetNode name="Chief Academic Officer" amount="39877347">
+			<budgetNode name="Chief Academic Office" amount="4725486">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="1393204" />
 					<fundingType name="Categorical" amount="0" />
@@ -96,7 +96,7 @@
 					<fundingType name="Operating" amount="16405" />
 				</costCenter>
 			</budgetNode>
-			<budgetNode type="Functional Area" name="Accountability, Equity, &amp; Compliance Office" amount="5152788">
+			<budgetNode name="Accountability, Equity, &amp; Compliance Office" amount="5152788">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="1950252" />
 					<fundingType name="Categorical" amount="904218" />
@@ -115,8 +115,8 @@
 				</costCenter>
 			</budgetNode>
 		</budgetNode>
-		<budgetNode type="Sub-Category" name="Chief Student Support Services" amount="5055166">
-			<budgetNode type="Functional Area" name="Chief Student Support Services Office" amount="0">
+		<budgetNode name="Chief Student Support Services" amount="5055166">
+			<budgetNode name="Chief Student Support Services Office" amount="0">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="0" />
 					<fundingType name="Categorical" amount="0" />
@@ -125,7 +125,7 @@
 					<fundingType name="Operating" amount="0" />
 				</costCenter>
 			</budgetNode>
-			<budgetNode type="Functional Area" name="Student Placement &amp; Enrollment" amount="1389273">
+			<budgetNode name="Student Placement &amp; Enrollment" amount="1389273">
 				<costCenter name="Cost of Fulltime Positions">
 					<fundingType name="Operating" amount="766370" />
 					<fundingType name="Categorical" amount="0" />

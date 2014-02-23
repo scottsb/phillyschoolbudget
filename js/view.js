@@ -1,11 +1,17 @@
 PSB.View = (function ($) {
 	"use strict";
 
-	// private methods go here...
+	function _handleZoom() {
+		PSB.Model.fetchBudgetChildren(function(children) {
+			// ...
+		});
+	}
 
 	return {
 		init: function () {
-			// constructor...
+			PSB.Model.fetchBudgetRoot(function(root, children) {
+				// ...
+			});
 
 			return this;
 		}

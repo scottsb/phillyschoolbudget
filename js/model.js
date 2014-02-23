@@ -39,7 +39,7 @@ PSB.Model = (function ($) {
 			query.limit(1).first({
 				success: function(rootNode) {
 					_fetchChildNodes(rootNode, function (childNodes) {
-						successCallback(_parseArrayToJson(childNodes));
+						successCallback(rootNode.toJSON(), _parseArrayToJson(childNodes));
 					});
 				},
 				error: _handleParseError
