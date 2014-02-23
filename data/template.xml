@@ -1,4 +1,4 @@
-<budgetRoot>
+<budgetNode>
 	<budgetNode name="School Budgets" amount="">
 		<budgetNode name="District Operated Schools - Instructional" amount="1314656037">
 			<budgetNode name="Elementary - K-8 Education" amount="509911885">
