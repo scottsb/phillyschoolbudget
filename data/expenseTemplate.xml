@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <budgetNode>
 	<budgetNode name="School Budgets">
 		<budgetNode name="District Operated Schools - Instructional">
@@ -144,6 +145,3 @@
 		</budgetNode>
 	</budgetNode>
 </budgetRoot>
-
-<fundingSource id="uPq29o1ob3" name="Operating" />
-<fundingSource id="uPq29o1ob4" name="Categorical" />
