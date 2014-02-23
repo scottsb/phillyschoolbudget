@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fundingSources>
-<funding source='Operating' id='Operating' />
-<funding source='Categorical' id='Categorical' />
-<funding source='Other' id='Other' />
-<funding source='Capital' id='Capital' />
+<fundingSource name='Operating' id='Operating' />
+<fundingSource name='Categorical' id='Categorical' />
+<fundingSource name='Other' id='Other' />
+<fundingSource name='Capital' id='Capital' />
 </fundingSources>
