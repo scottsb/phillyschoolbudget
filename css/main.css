@@ -35,6 +35,23 @@ header { position:absolute; left:0px; top:0px; }
 	div.menuTab { width:30px; height:19px; background:url(../images/misc/hamburger.png) no-repeat; cursor:pointer; }
 
 .main-container { width:100%; height:100%; overflow:hidden; }
+	#dataOverview { position:absolute; top:0px; left:0px; }
+	.main { width:100%; height:100%; margin:0 auto; display:block; }
+		.main svg { width:100%; height:100%; }	
+			circle {
+			  fill: rgb(31, 119, 180);
+			  fill-opacity: .25;
+			  stroke: rgb(31, 119, 180);
+			  stroke-width: 1px;
+			}
+			.leaf circle {
+			  fill: #ff7f0e;
+			  fill-opacity: 1;
+			}
+			text {
+			  font: 10px sans-serif;
+			}
+	#legend { position:absolute; bottom:0px; right:0px; }
 
 footer { position:absolute; left:0px; bottom:0px; }
 
@@ -88,6 +105,7 @@ nav a:hover { text-decoration: underline; }
 
     nav li:last-child a { margin-right: 0; }
 
+	.main { max-width:320px; }
 @media only screen and (min-width: 768px) {
 
 /* ====================
@@ -109,17 +127,19 @@ nav a:hover { text-decoration: underline; }
 /* ============
     WIDE: Main
    ============ */
+	.main { max-width:600px; }
    .main article { width: 57%; float: left; }
    
    .main aside { width: 28%; float: right; }
 }
 
-@media only screen and (min-width: 1140px) {
+@media only screen and (min-width: 1280px) {
 
 /* ===============
     Maximal Width
    =============== */
    .wrapper { /* width: 1026px; 1140px - 10% for margins */ margin: 0 auto; }
+	.main { max-width:960px; }
 }
 
 /* ==========================================================================
