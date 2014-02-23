@@ -21,8 +21,6 @@
 					<funding source="uPq29o1ob3" amount="8038" />
 				</budgetNode>
 				<!--etc-->
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
 			<budgetNode name="Middle School Education" amount="83111090">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
@@ -46,8 +44,6 @@
 				<funding source="uPq29o1ob3" amount="50" />
 				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
-			<funding source="uPq29o1ob3" amount="50" />
-			<funding source="uPq29o1ob3" amount="100" />
 		</budgetNode>
 		<budgetNode name="District Operated Schools - Instructional Support" amount="37693456">
 			<budgetNode name="Professional Development" amount="22925763" leaf="true">
@@ -70,21 +66,13 @@
 					<funding source="uPq29o1ob3" amount="129101" />
 					<funding source="uPq29o1ob3" amount="2477377" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
 			<budgetNode name="Partnership Schools - EMOs -- Additional Payments" amount="0">
 				<budgetNode name="Contracted Serv-Prof/Tech" leaf="true">
 					<funding source="uPq29o1ob3" amount="0" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
-			<funding source="uPq29o1ob3" amount="50" />
-			<funding source="uPq29o1ob3" amount="100" />
 		</budgetNode>
-		<funding source="uPq29o1ob3" amount="50" />
-		<funding source="uPq29o1ob3" amount="100" />
 	</budgetNode>
 	<budgetNode name="Administrative Support Operations" amount="">
 		<budgetNode name="Chief Academic Officer" amount="39877347">
@@ -105,8 +93,6 @@
 				<budgetNode name="Overtime" leaf="true">
 					<funding source="uPq29o1ob3" amount="16405" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
 			<budgetNode name="Accountability, Equity, &amp; Compliance Office" amount="5152788">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
@@ -125,11 +111,7 @@
 				<budgetNode name="Overtime" leaf="true">
 					<funding source="uPq29o1ob3" amount="1118" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
-			<funding source="uPq29o1ob3" amount="50" />
-			<funding source="uPq29o1ob3" amount="100" />
 		</budgetNode>
 		<budgetNode name="Chief Student Support Services" amount="5055166">
 			<budgetNode name="Chief Student Support Services Office" amount="0">
@@ -140,8 +122,6 @@
 				<budgetNode name="Insurance Recoveries" leaf="true">
 					<funding source="uPq29o1ob3" amount="0" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
 			<budgetNode name="Student Placement &amp; Enrollment" amount="1389273">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
@@ -162,17 +142,9 @@
 					<funding source="uPq29o1ob3" amount="21060" />
 					<funding source="uPq29o1ob3" amount="0" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
-			<funding source="uPq29o1ob3" amount="50" />
-			<funding source="uPq29o1ob3" amount="100" />
 		</budgetNode>
-		<funding source="uPq29o1ob3" amount="50" />
-		<funding source="uPq29o1ob3" amount="100" />
 	</budgetNode>
-	<funding source="uPq29o1ob3" amount="50" />
-	<funding source="uPq29o1ob3" amount="100" />
 </budgetRoot>
 
 <fundingSource id="uPq29o1ob3" name="Operating" />
