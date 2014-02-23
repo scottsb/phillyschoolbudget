@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<budgetNode>
+<budgetNode name="Philadelphia School Budget">
     <budgetNode name="School Budgets">
 <budgetNode name='District Operated Schools - Instructional'>
 <budgetNode name='Elementary - K-8 Education'>
