@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -72,31 +72,31 @@
 			var width = 1000, height = 1000;
 			var viewColors = [  "blue",
 								"gold",
-								"green", 
-								"red", 
+								"green",
+								"red",
 								"maroon"
 					];
 			var interactionColors = [  "lightblue",
-									   "yellow", 
-									   "lightgreen", 
-									   "lightcoral", 
+									   "yellow",
+									   "lightgreen",
+									   "lightcoral",
 									   "indianred"
 					];
 
 			var week = 0, scale = 100;
-			
+
 			var svg = d3.select("div.main").append("svg")
 			   .attr("width", width)
 			   .attr("height", height)
 			   .selectAll("g")
 			   .data(viewsAndInteraction[week])
 			   .enter();
-			
+
 			var g = svg.append("g")
 				.attr("transform", function(d,i){
 
 			var x = 10000,  y = 10000;
-		  
+
 			if (!(i%2)){
 			  for (var count=0;
 				   count<i;
@@ -122,21 +122,21 @@
 			g.append("circle")
 			  .attr("r", function(d){return d[0]/scale})
 			  .style("fill", function(d, i){return viewColors[i];});
-			
+
 			g.append("circle")
 			  .attr("r", function(d){return d[1]/scale})
 			  .style("fill", function(d, i){return interactionColors[i];});
-			
+
 			g.append("text")
 			  .attr("x", -15)
 			  .attr("y", function(d){return (15 + d[1]/scale);})
 			  .attr("fill", "white")
 			  .text(function(d){return d[0]});
-			
+
 			g.append("text")
 			  .attr("x", -15)
 			  .attr("y", 5)
-			
+
 			  .text(function(d){return d[1]});
 		</script>
 

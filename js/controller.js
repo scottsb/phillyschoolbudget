@@ -4,7 +4,7 @@ PSB.Controller = (function ($) {
 	return {
 		init: function () {
 			PSB.Model.init();
-			//PSB.View.init();
+			PSB.View.init();
 			return this;
 		},
 
