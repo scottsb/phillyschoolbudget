@@ -1,0 +1,4522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<budgetNode name="Philadelphia School Budget">
+    <budgetNode name="School Budgets">
+<budgetNode name='District Operated Schools - Instructional'>
+<budgetNode name='Elementary - K-8 Education'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='268638396' />
+<funding source='Categorical' amount='59787102' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-3760938' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-5421108' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='4557' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='227285' />
+<funding source='Categorical' amount='8038' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='266026' />
+<funding source='Categorical' amount='858448' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='5043' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='483493' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='4000' />
+<funding source='Categorical' amount='1205209' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='149380436' />
+<funding source='Categorical' amount='36267250' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='114694' />
+<funding source='Categorical' amount='621957' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='4000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='8155' />
+<funding source='Categorical' amount='30920' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='1892347' />
+<funding source='Categorical' amount='-12779554' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='3493889' />
+<funding source='Categorical' amount='3279557' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='1815782' />
+</budgetNode>
+<budgetNode name='Scholarships &amp; Stipends' leaf='true'>
+<funding source='Categorical' amount='50000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Categorical' amount='3316579' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Middle School Education'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='46638691' />
+<funding source='Categorical' amount='5589549' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-652942' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-965114' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='91851' />
+<funding source='Categorical' amount='2000' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='46215' />
+<funding source='Categorical' amount='188686' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='37913' />
+<funding source='Categorical' amount='90892' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='223292' />
+<funding source='Categorical' amount='10611' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='2000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='25534164' />
+<funding source='Categorical' amount='3458765' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='44000' />
+<funding source='Categorical' amount='508215' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='7000' />
+<funding source='Categorical' amount='8050' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='50959' />
+<funding source='Categorical' amount='72616' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='314607' />
+<funding source='Categorical' amount='281457' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='523879' />
+<funding source='Categorical' amount='461131' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='39812' />
+<funding source='Categorical' amount='493714' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='9895' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Secondary Education'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='121642453' />
+<funding source='Categorical' amount='13201884' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1564891' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-646819' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='43364' />
+<funding source='Categorical' amount='24700' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='515854' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='1029424' />
+<funding source='Categorical' amount='365374' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='153171' />
+<funding source='Categorical' amount='61958' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='546442' />
+<funding source='Categorical' amount='23754' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='4000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='68346410' />
+<funding source='Categorical' amount='7836348' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='1093180' />
+<funding source='Categorical' amount='5324324' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='199727' />
+<funding source='Categorical' amount='9330' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='175373' />
+<funding source='Categorical' amount='239744' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='1141574' />
+<funding source='Categorical' amount='1851332' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='1952718' />
+<funding source='Categorical' amount='816307' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='278679' />
+<funding source='Categorical' amount='1479284' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='6557668' />
+<funding source='Categorical' amount='24824' />
+</budgetNode>
+<budgetNode name='Scholarships &amp; Stipends' leaf='true'>
+<funding source='Categorical' amount='8747' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Secondary Education - Career and Technical'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='27151518' />
+<funding source='Categorical' amount='2269180' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-380121' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-203967' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='3889' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='102352' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='36176' />
+<funding source='Categorical' amount='105876' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='3657' />
+<funding source='Categorical' amount='4420' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='186185' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='14989497' />
+<funding source='Categorical' amount='1374893' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='247462' />
+<funding source='Categorical' amount='166200' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='147553' />
+<funding source='Categorical' amount='315974' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='20527' />
+<funding source='Categorical' amount='249103' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='435129' />
+<funding source='Categorical' amount='567829' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='352337' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='32036' />
+<funding source='Categorical' amount='350881' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='-24720' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Special Ed High Incidence'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='69815749' />
+<funding source='Categorical' amount='4813106' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-977420' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='30521' />
+<funding source='Categorical' amount='68578' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='22500' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='40225237' />
+<funding source='Categorical' amount='4404355' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='3535690' />
+<funding source='Categorical' amount='2641800' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='245600' />
+<funding source='Categorical' amount='1873767' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='185180' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='11959' />
+<funding source='Categorical' amount='51840' />
+</budgetNode>
+<budgetNode name='Scholarships &amp; Stipends' leaf='true'>
+<funding source='Operating' amount='500' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-7100000' />
+<funding source='Categorical' amount='1500000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Special Education -- Low Incidence'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='70454763' />
+<funding source='Categorical' amount='1488504' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-951389' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-4066095' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='979140' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='29669' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='1500' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='46587864' />
+<funding source='Categorical' amount='1617854' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='2189533' />
+<funding source='Categorical' amount='4340387' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='3451' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='746672' />
+<funding source='Categorical' amount='29500' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='12876' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Categorical' amount='2625718' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Special Education -- Gifted Education'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1018687' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-14262' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='33195' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='269899' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='656239' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='60170' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='500' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='246368' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='392732' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='3378' />
+</budgetNode>
+<budgetNode name='Scholarships &amp; Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Promise Academies'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='6166723' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='140197' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='150359' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='1205316' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='43000' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='3240170' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='1698060' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='40000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Early Childhood Programs'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1648649' />
+<funding source='Categorical' amount='21705942' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='215540' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='81750' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='35000' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1330290' />
+<funding source='Categorical' amount='14437091' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='39296924' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='50000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='18893' />
+<funding source='Categorical' amount='139240' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='138553' />
+<funding source='Categorical' amount='174268' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='37500' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='12694' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-672069' />
+<funding source='Categorical' amount='1868998' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Extended Day'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='207' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Categorical' amount='58' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Categorical' amount='2900000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Categorical' amount='100800' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Categorical' amount='2977' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='663' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='1440' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Summer Programs'>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='273893' />
+<funding source='Categorical' amount='144314' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='90357' />
+<funding source='Categorical' amount='40451' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='5000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='1000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='28500' />
+<funding source='Categorical' amount='15000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='English Language Learners - Instruction'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='22780124' />
+<funding source='Categorical' amount='783024' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='12601124' />
+<funding source='Categorical' amount='615516' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='29870' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='1587' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='11765893' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='1778541' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='4468309' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Desegregation'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Itinerant Instrumental Music'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='4918910' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='14880' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='2807714' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='6352' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='2587' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='7800' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Alternative Education - Transition Programs'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='2241555' />
+<funding source='Categorical' amount='404885' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-29140' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-350219' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='6952' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='109558' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='11687' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='5016' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1212446' />
+<funding source='Categorical' amount='259570' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='3955000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='163487' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='126400' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='42795' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp; Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Alternative Education - Multiple Pathways'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='3157073' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-41042' />
+</budgetNode>
+<budgetNode name='Turnover &amp; Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-45000' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='8573' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='41408' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='10110' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='10952' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1827821' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='17627129' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='101060' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='38269' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Supplemental Teachers'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='District Operated Schools - Instructional Support'>
+<budgetNode name='Professional Development'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='9252637' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='13834' />
+<funding source='Categorical' amount='24202' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='129101' />
+<funding source='Categorical' amount='2477377' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='731874' />
+<funding source='Categorical' amount='5669664' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='5500' />
+<funding source='Categorical' amount='2493483' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='4353' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='79777' />
+<funding source='Categorical' amount='253718' />
+</budgetNode>
+<budgetNode name='Materials &amp; Supplies' leaf='true'>
+<funding source='Operating' amount='6389' />
+<funding source='Categorical' amount='626053' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='615965' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='30000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='371454' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='140382' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Partnership Schools - EMOs -- Additional Payments'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Academic Division Offices'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='33216' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='600' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='32041' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Multiple Pathways to Graduation Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='378161' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-378' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-47557' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='193476' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='951' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='2055' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Educational Technology'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='471937' />
+<funding source='Categorical' amount='1473269' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-376' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='207024' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='4379' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='17283' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='308365' />
+<funding source='Categorical' amount='762057' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='1627326' />
+<funding source='Categorical' amount='510000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='699' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='1955' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='26719' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='1750' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Alternative Education Academic Division'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1070436' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1070' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-37636' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='572502' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='10000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='3219' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='70188' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='29515' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Supplementary Principals and Assistant Principals'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Central Book Allotment'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='200000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Hospital - Homebound Instruction'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='257803' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='174591' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='3000' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='195424' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='743428' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='261' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Other Instructional Support'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='3001358' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-167' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-77165' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='1861' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1983944' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='561250' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='District Operated Schools - Pupil - Family Support '>
+<budgetNode name='Counselors and Related Positions'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='21087256' />
+<funding source='Categorical' amount='653479' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-287941' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-202832' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='11502559' />
+<funding source='Categorical' amount='454021' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='26931' />
+<funding source='Categorical' amount='6114' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Categorical' amount='11000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Categorical' amount='3622' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='200' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='School Health - Nurses'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='15225230' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-183246' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-146361' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='268801' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='33068' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='8326043' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='325000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='13800' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='66646' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='145697' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='2300' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='44000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Parent &amp;Community Support'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='471651' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Categorical' amount='3555' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='57166' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Categorical' amount='350924' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Categorical' amount='84494' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Categorical' amount='500' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Categorical' amount='149741' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Categorical' amount='477633' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='332696' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='25699' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Psychologists'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='10286773' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-144015' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-108829' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='196327' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='5269133' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='15000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='10200' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Athletics - Sports - Health - Safety and Physical Education'>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='33324' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='4473672' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1486858' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='853850' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='264371' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='307116' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='104234' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Librarians'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1274414' />
+<funding source='Categorical' amount='974153' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-17044' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='389' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='3772' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='747113' />
+<funding source='Categorical' amount='531036' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='1900' />
+<funding source='Categorical' amount='2510' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Extra Curricular Activities - Clubs'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='3666384' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1209540' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='English Language Learners -- Support Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1489099' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1489' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1143108' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='District Operated Schools - Operational Support'>
+<budgetNode name='Debt Service'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='4380718' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='51600' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='158220989' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='117439251' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Facilities -- Custodians and Building Engineers'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='41587422' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1039686' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-4465472' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='853593' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='2569658' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='138542' />
+</budgetNode>
+<budgetNode name='Split Shift Reimbursement' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='186000' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='32536932' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='9970333' />
+<funding source='Categorical' amount='30000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='565426' />
+<funding source='Categorical' amount='65000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='2597915' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='314966' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='9750000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='11207790' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Facilities -- Maintenance and Repair Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='13793689' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-344842' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-1684132' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='781345' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Split Shift Reimbursement' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='8773190' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='1186834' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='4798745' />
+<funding source='Categorical' amount='25163' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='3216' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='3013124' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='149' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='439630' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='10000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Transportation -- Special Education Services'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='60374000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Transportation -- Regular Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='15410971' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-277397' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-1754387' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='2543828' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='2768' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='14508708' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='2100' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='269360' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='33414917' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='3046534' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-46252000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Transportation -- Bus Attendants - Special Ed'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='7710518' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-107947' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='411612' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='10453689' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='5055300' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-14122000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Transportation -- Maintenance'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='2021229' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-36382' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-96974' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='199744' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1346752' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='760000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2250' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='1130000' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='36350' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Utilities'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='368020' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='7523039' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='4931920' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='42972126' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='307500' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Food Service'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-4043135' />
+</budgetNode>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='984561' />
+<funding source='Other' amount='18670610' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Categorical' amount='0' />
+<funding source='Other' amount='744887' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='10650' />
+<funding source='Other' amount='274703' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+<funding source='Other' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Categorical' amount='649807' />
+<funding source='Other' amount='17198996' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Categorical' amount='882528' />
+<funding source='Other' amount='1256500' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Categorical' amount='8000' />
+<funding source='Other' amount='227980' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Categorical' amount='88000' />
+<funding source='Other' amount='167000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Categorical' amount='306000' />
+<funding source='Other' amount='41053705' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='4200' />
+<funding source='Other' amount='100000' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Other' amount='-261389' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Other' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Other' amount='441540' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Other' amount='76443' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Other' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Other' amount='7402755' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='School Safety - School Police'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='16076772' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-16077' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-393194' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='408208' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='321550' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='45613' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='63600' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='10907044' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='27916' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='115374' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='14800' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='215239' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='1497' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='127897' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='School Safety - Mobile Security'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='2105963' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-2106' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-133743' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='12653' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='129272' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='80772' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1352090' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='2700' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='3036' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='4678' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Losses and Judgments'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='11230812' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Insurance and Self Insurance Reserves'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='884150' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-623286' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='563986' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2085162' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='922843' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-28571150' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Postal Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='482766' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-9658' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='532' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='34123' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='353786' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='46081' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='102043' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='1331357' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='15000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Capital Programs Support Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='3514733' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-7029' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='995731' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='92507' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='2373348' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='2375599' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='728683' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='485364' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='291597' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='108762' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='16464886' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='155175926' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Space Rental'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='9200' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='4031275' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='389000' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Non-District Operated Schools'>
+<budgetNode name='Renaissance Charters'>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='170967188' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='All Other Philadelphia Charters'>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='465643177' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='9428036' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Non-Philadelphia Charters - Cyber Charters'>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='76031076' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Charter Schools - Transportation'>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='25974374' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Education of Students in Institutional Placements'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='8531318' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='57298666' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Services to Non-Public Schools -- Regular'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='383313' />
+<funding source='Categorical' amount='6788112' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='7949' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='214634' />
+<funding source='Categorical' amount='3639221' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='13715905' />
+<funding source='Categorical' amount='1203018' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='30000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='10000' />
+<funding source='Categorical' amount='49000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='27864' />
+<funding source='Categorical' amount='105587' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='500' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='6600' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='282016' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Services to Non-Public Schools -- Transportation'>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='22626567' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+    </budgetNode>
+    <budgetNode name="Administrative Support Operations">
+<budgetNode name='Chief Academic Officer'>
+<budgetNode name='Chief Academic Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1393204' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1393' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-79373' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='16405' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='65053' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='641996' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='777957' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2538' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='17956' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='12080' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='1879063' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Accountability'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1950252' />
+<funding source='Categorical' amount='904218' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1950' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-214143' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='1118' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='3990' />
+<funding source='Categorical' amount='30000' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='4103' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='59' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='942449' />
+<funding source='Categorical' amount='448245' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='334697' />
+<funding source='Categorical' amount='934000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='71' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='19598' />
+<funding source='Categorical' amount='10969' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='6508' />
+<funding source='Categorical' amount='2000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='4034' />
+<funding source='Categorical' amount='1000' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='7520' />
+<funding source='Categorical' amount='5000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-300000' />
+<funding source='Categorical' amount='59050' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Secondary School Reform Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='177588' />
+<funding source='Categorical' amount='1197983' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-178' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='3547' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='3435' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='70257' />
+<funding source='Categorical' amount='57412' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='2528' />
+<funding source='Categorical' amount='95327' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='112211' />
+<funding source='Categorical' amount='755953' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='411941' />
+<funding source='Categorical' amount='1260885' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='60000' />
+<funding source='Categorical' amount='101773' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='88151' />
+<funding source='Categorical' amount='647942' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='68675' />
+<funding source='Categorical' amount='275583' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='121825' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='152040' />
+<funding source='Categorical' amount='487300' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-12279' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Curriculum'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='947198' />
+<funding source='Categorical' amount='407704' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-947' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='1894' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='38112' />
+<funding source='Categorical' amount='12967' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='43223' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='481436' />
+<funding source='Categorical' amount='246275' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='446085' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='16450' />
+<funding source='Categorical' amount='43830' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='220930' />
+<funding source='Categorical' amount='62268' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='4000' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='21688' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Multilingual Curriculum &amp;Programs Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='508619' />
+<funding source='Categorical' amount='945146' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-509' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-63385' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='13476' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='246875' />
+<funding source='Categorical' amount='512069' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='28000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='115263' />
+<funding source='Categorical' amount='31500' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='11000' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Categorical' amount='30000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Categorical' amount='3000' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Specialized Services Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='203063' />
+<funding source='Categorical' amount='3693397' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-203' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='5689' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='99815' />
+<funding source='Categorical' amount='2044110' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='5000' />
+<funding source='Categorical' amount='4397755' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='2152' />
+<funding source='Categorical' amount='800000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2623' />
+<funding source='Categorical' amount='100090' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='1452' />
+<funding source='Categorical' amount='115004' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='20000' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='45000' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Early Childhood Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='450883' />
+<funding source='Categorical' amount='1008108' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-204' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='25164' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='35000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='15000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='260467' />
+<funding source='Categorical' amount='597219' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='55000' />
+<funding source='Categorical' amount='111772' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='25000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='68500' />
+<funding source='Categorical' amount='155000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='51029' />
+<funding source='Categorical' amount='51045' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='10000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='10000' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Leadership &amp;Talent Development Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='272868' />
+<funding source='Categorical' amount='1202923' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-273' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='117675' />
+<funding source='Categorical' amount='94960' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='174479' />
+<funding source='Categorical' amount='682560' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='295000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='55000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='50000' />
+<funding source='Categorical' amount='22771' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Categorical' amount='280000' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='2500' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Empowerment Schools Support Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='60358' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='33596' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='363' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='4333' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Academic Counseling and Standards Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='362156' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-362' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='76383' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='207802' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='6000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='503' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='2500' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='16980' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Student Support Services'>
+<budgetNode name='Chief Student Support Services Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='ical' leaf='true'>
+<funding source='Categorical' amount='' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Student Placement &amp;Enrollment'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='766370' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-766' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='21060' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='75876' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='469121' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2929' />
+<funding source='Categorical' amount='1464' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='3182' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='1380' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='187' />
+<funding source='Categorical' amount='48470' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Attendance'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='489411' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-489' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-60757' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='2130' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='27093' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='281066' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='717241' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='24610' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='3734' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='4397' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Discipline Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='723582' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-724' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-101259' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='360615' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='23000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='324' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='School Safety'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='587785' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-8161' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='3500' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Operating' amount='5397' />
+</budgetNode>
+<budgetNode name='Bonus' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='381822' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='160785' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='20793' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='20000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='School Operations Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Financial Officer'>
+<budgetNode name='CFO Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='237000' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-237' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='255' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='18862' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='111783' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='139987' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='9752' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='6000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='3034' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='1185' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Management and Budget Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='937272' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-937' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-87401' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='128' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='468526' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='504596' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='681' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='12224' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='3667' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='2215' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='4738' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Categorical' amount='256725' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Accounting &amp;Audit Coordination'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1316074' />
+<funding source='Categorical' amount='408778' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1316' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-268338' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='4842' />
+<funding source='Categorical' amount='26200' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='5629' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='52839' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='651952' />
+<funding source='Categorical' amount='221063' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='92124' />
+<funding source='Categorical' amount='20015' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='557' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='13148' />
+<funding source='Categorical' amount='500' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='10066' />
+<funding source='Categorical' amount='500' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='5699' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='398' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Categorical' amount='-677041' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Financial Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1833866' />
+<funding source='Categorical' amount='198212' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1511' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-165075' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='29355' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='88534' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='997533' />
+<funding source='Categorical' amount='109863' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='317943' />
+<funding source='Categorical' amount='6439' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='1778' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='10582' />
+<funding source='Categorical' amount='5000' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='27718' />
+<funding source='Categorical' amount='10000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='655' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='8246' />
+<funding source='Categorical' amount='5000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='143458' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='4600' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Grants Development and Compliance Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='4010407' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='95988' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='2258406' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='1030964' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='86504' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='109961' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='109788' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='4711' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='46247' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Categorical' amount='3939' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='20634' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Categorical' amount='-1307540' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Support Services Officer'>
+<budgetNode name='Procurement Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='626714' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-627' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-31831' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='571' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='17824' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='368744' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='68221' />
+<funding source='Capital' amount='220000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='300' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='16445' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='9908' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='468' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='4203' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Facilities -- Administration'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='3469261' />
+<funding source='Capital' amount='226787' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-70239' />
+<funding source='Capital' amount='-454' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-345133' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='388431' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='312748' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='2047782' />
+<funding source='Capital' amount='119976' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='237022' />
+<funding source='Capital' amount='37000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='5334' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='34820' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='536' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='5000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Food Service - Administration'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Other' amount='1592620' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Other' amount='-22297' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Other' amount='4146' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Other' amount='5672' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Other' amount='56914' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Other' amount='104464' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Other' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Other' amount='964515' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Other' amount='712444' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Other' amount='161800' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Other' amount='4500' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Other' amount='26400' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Other' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Other' amount='31100' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Other' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Transportation -- Administration'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1516141' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-27291' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='10002' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='84973' />
+</budgetNode>
+<budgetNode name='Shift Differential' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='53012' />
+</budgetNode>
+<budgetNode name='Summer Programs' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='927680' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='979301' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='4410' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='18668' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='22254' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='5920' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='6081' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Records Management - Warehouse - Distribution'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='919027' />
+<funding source='Other' amount='617012' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-14219' />
+<funding source='Other' amount='-617' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-96200' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Other' amount='2658' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='29062' />
+<funding source='Other' amount='24556' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='74693' />
+<funding source='Other' amount='8737' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='642123' />
+<funding source='Other' amount='418471' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='287700' />
+<funding source='Other' amount='40000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='265100' />
+<funding source='Other' amount='260400' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2468' />
+<funding source='Other' amount='168800' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='98478' />
+<funding source='Other' amount='206800' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='3800' />
+<funding source='Other' amount='104400' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Other' amount='8500' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Capital Programs Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Capital' amount='1723396' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Capital' amount='-3447' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Capital' amount='56397' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Capital' amount='75759' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Capital' amount='952890' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Capital' amount='1023750' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Capital' amount='22050' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Capital' amount='218243' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Capital' amount='78094' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Capital' amount='9224' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Capital' amount='38645' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Capital' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Human Resources Officer'>
+<budgetNode name='Office of Chief HR Officer'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='625125' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-625' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='47796' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='303896' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='10110' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='857' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='1002' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='3921' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='3548' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Organizational Development'>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='170' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='56' />
+<funding source='Categorical' amount='205802' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='664972' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='7000' />
+</budgetNode>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='347879' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Strategic Recruiting'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1732488' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1732' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-345350' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='3567' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='42066' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='6721' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='856555' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='100000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2431' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='43368' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='97' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='2633' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Employee Support &amp;Relations'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='804130' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-441' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-31959' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='1543' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='120120' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='458022' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='121498' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='10879' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='1706' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Compensation'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1141399' />
+<funding source='Categorical' amount='192318' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-517' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='17868' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='11480' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='729589' />
+<funding source='Categorical' amount='104498' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='113292' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='891' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='5500' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='11319' />
+<funding source='Categorical' amount='3900' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='1960' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Professional Development' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Family &amp;Community Engagement'>
+<budgetNode name='Community Engagement - Faith Based Partnerships Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='491740' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-490' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-42127' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='34565' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='303886' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='130514' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='32110' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='36032' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='9000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Family Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='454887' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-455' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-30127' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='19867' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='27988' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='237871' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='20345' />
+<funding source='Categorical' amount='75000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='6757' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='3865' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='9086' />
+<funding source='Categorical' amount='18000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='16856' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='140' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Information Officer'>
+<budgetNode name='Office of Chief IT Officer'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='135329' />
+<funding source='Capital' amount='87134' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-135' />
+<funding source='Capital' amount='-174' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='1767' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='14071' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='63510' />
+<funding source='Capital' amount='46628' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='274' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='2075' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='626' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='462' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Capital' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Information Systems'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='2290359' />
+<funding source='Capital' amount='99754' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-2290' />
+<funding source='Capital' amount='-200' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-234856' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='3' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='9741' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='1115560' />
+<funding source='Capital' amount='51204' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='229979' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='5678' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='11056' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='305871' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='7859' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='131793' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Technology Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1961330' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1961' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-176946' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='2379' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='2288' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='917981' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='3161701' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='1109000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='1046400' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='109200' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='7100' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='3209700' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-3200000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='IT Help Desk &amp;Tech Support'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1031766' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1032' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='2500' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='22265' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='605455' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='316300' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='7965' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='31000' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='115492' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='2270' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Office of the Superintendent/CEO'>
+<budgetNode name='Office of the Superintendent - CEO'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1666596' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1667' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='-188849' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='2129' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='21205' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='45157' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='719073' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='145780' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='91962' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='12410' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='1175' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='2264' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Chief Safety Officer'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='241033' />
+<funding source='Categorical' amount='287601' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-241' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='17540' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='19257' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='136885' />
+<funding source='Categorical' amount='149962' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='40000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='1100' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='28756' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='General Counsel&apos;s Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='1699998' />
+<funding source='Categorical' amount='98000' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-1700' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='6021' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='822254' />
+<funding source='Categorical' amount='46014' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='5000390' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='16000' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='23971' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='16636' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='14000' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='5748' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='-144014' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Communications Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='612434' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-612' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='25955' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='117098' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='370487' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='2000' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='5169' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='41114' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='19025' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Books/Instructional Aids' leaf='true'>
+<funding source='Operating' amount='8087' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='37759' />
+<funding source='Categorical' amount='13000' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Charter Schools Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='504184' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-504' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='10506' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='45197' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='280329' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='369253' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='24267' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='9997' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='51115' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='6094' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='School Reform Commission'>
+<budgetNode name='School Reform Commission'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='420921' />
+<funding source='Categorical' amount='20115' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-421' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Per Diem Substitute Service' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Overtime' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Extra Curricular' leaf='true'>
+<funding source='Operating' amount='33102' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='231748' />
+<funding source='Categorical' amount='11197' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='5984' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='281' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='31766' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='5000' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='2000' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Auditing Services'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='293326' />
+<funding source='Capital' amount='77961' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-152' />
+<funding source='Capital' amount='-156' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Capital' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='164221' />
+<funding source='Capital' amount='43608' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='3258' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='871' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='1871' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Capital' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Inspector General&apos;s Office'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='260650' />
+</budgetNode>
+<budgetNode name='Insurance Recoveries' leaf='true'>
+<funding source='Operating' amount='-261' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='140639' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='500' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='907' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='1262' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='Other Expenses'>
+<budgetNode name='District Support for Property Tax Assessment'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='3800000' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='City Controller - School District Support'>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Turnover &amp;Delayed Hiring' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='500' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Temporary Borrowing'>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='454800' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='15000' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='5849900' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Undistributed Budgetary Adjustments - Other'>
+<budgetNode name='Employee Insurance Opt-Out' leaf='true'>
+<funding source='Operating' amount='1608770' />
+</budgetNode>
+<budgetNode name='Employee Benefits' leaf='true'>
+<funding source='Operating' amount='-1834722' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Contracted Serv-Prof/Tech' leaf='true'>
+<funding source='Operating' amount='-6907430' />
+<funding source='Categorical' amount='222407' />
+</budgetNode>
+<budgetNode name='Contracted Servs - Property' leaf='true'>
+<funding source='Operating' amount='0' />
+</budgetNode>
+<budgetNode name='Contr Serv-Trans/Comm/Other' leaf='true'>
+<funding source='Operating' amount='418136' />
+</budgetNode>
+<budgetNode name='Materials &amp;Supplies' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Equipment' leaf='true'>
+<funding source='Operating' amount='-10139629' />
+<funding source='Categorical' amount='0' />
+</budgetNode>
+<budgetNode name='Scholarships &amp;Stipends' leaf='true'>
+<funding source='Operating' amount='0' />
+<funding source='Categorical' amount='6746703' />
+</budgetNode>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-7251355' />
+<funding source='Categorical' amount='40363' />
+</budgetNode>
+<budgetNode name='Cost Of Fulltime Positions' leaf='true'>
+<funding source='Categorical' amount='0' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+<budgetNode name='District-Wide Gap Closing Measures'>
+<budgetNode name='Budget Reductions - Instructional &amp;Instructional Support'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-146433843' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Budget Reductions - Pupil &amp;Family Support'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-47118505' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Budget Reductions - Operating Support'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-28429475' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Budget Reductions - Non District Operated Schools'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-9349474' />
+</budgetNode>
+</budgetNode>
+<budgetNode name='Budget Reductions - Administration'>
+<budgetNode name='Other Uses Of Funds' leaf='true'>
+<funding source='Operating' amount='-23088562' />
+</budgetNode>
+</budgetNode>
+</budgetNode>
+    </budgetNode>
+</budgetNode>
