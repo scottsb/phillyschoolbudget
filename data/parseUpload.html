@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title>Philly School Budget Visualization</title>
+<script src="../js/jquery-1.10.1.min.js"></script>
+<script src="http://www.parsecdn.com/js/parse-1.2.16.min.js"></script>
+</head>
+
+<body>
+
+<h1>Parse Uploader</h1>
+<p>
+	Funding Source XML:<br>
+	<textarea id="fundingSourceDoc" style='width:75%;height:200px;font-family:monospace'></textarea>
+</p>
+<p>
+	Expense XML:<br>
+	<textarea id="expenseDoc" style='width:75%;height:200px;font-family:monospace'></textarea>
+</p>
+<p><button id="process">Process</button></p>
+<p>Log will output here:</p>
+<p id="log"></p>
+
+<script>
+var $fundingSourceDoc, fundingSourceHash = {};
+var $expenseDoc;
+
+var BudgetNode = Parse.Object.extend("BudgetNode");
+var Funding = Parse.Object.extend("Funding");
+var FundingSource = Parse.Object.extend("FundingSource");
+
+function buildExpenseTree(nodes, parentParseObj) {
+	$(nodes).each(function (i, budgetNodeXml) {
+		var budgetNode = new BudgetNode();
+		var isLeaf = $(budgetNodeXml).attr('leaf') !== undefined;
+		budgetNode.save({
+			parent: parentParseObj,
+			name: $(budgetNodeXml).attr('name'),
+			amount: parseInt($(budgetNodeXml).attr('amount')),
+			fundingAmount: $(budgetNodeXml).attr('fundingAmount'),
+			leaf: isLeaf
+		}, {
+			success: function (budgetNode) {
+				console.log('Saved budget node: ' + $(budgetNodeXml).attr('name'));
+
+				if (isLeaf) {
+					var fundingRelation = budgetNode.relation('funding');
+					$(budgetNodeXml).children('funding').each(function (i, fundingXml) {
+						var funding = new Funding();
+						funding.save({
+							amount: parseInt($(fundingXml).attr('amount')),
+							source: fundingSourceHash[$(fundingXml).attr('source')]
+						}, {
+							success: function () {
+								fundingRelation.add(funding);
+								budgetNode.save();
+							}
+						});
+					});
+				} else {
+					buildExpenseTree($(budgetNodeXml).children('budgetNode'), budgetNode);
+				}
+			}
+		});
+	});
+}
+
+$(function () {
+	Parse.initialize("kfsmOGmVzW3UKCb3S0gpMpq6aEs7M7AG7dum0Osy", "NVHRaFSafDWCnknX4ckxDavdvcfWqD9bmN2KiI1u");
+
+	$('#process').on('click', function () {
+		$fundingSourceDoc = $($.parseXML($('#fundingSourceDoc').val()));
+		$fundingSourceDoc.find('fundingSource').each(function (i, fundingSourceXml) {
+			var fundingSource = new FundingSource();
+			fundingSource.save({
+				name: $(fundingSourceXml).attr('name')
+			}, {
+				success: function (fundingSource) {
+					console.log('Saved funding source: ' + $(fundingSourceXml).attr('name'));
+					fundingSourceHash[$(fundingSourceXml).attr('id')] = fundingSource;
+				}
+			});
+		});
+
+		$expenseDoc = $($.parseXML($('#expenseDoc').val()));
+		buildExpenseTree($expenseDoc.children());
+	});
+});
+</script>
+
+</body>
+
+</html>
