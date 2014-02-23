@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html class="no-js" lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -60,84 +60,7 @@
 		<script src="js/controller.js"></script>
 
 		<script>
-			var viewsAndInteraction = [
-				[ [7057, 2052], [7483, 2089], [3749, 1586],
-				  [3846, 1426], [4598, 2632]               ],
-				[ [5972, 2071], [5672, 2190], [9152, 7214],
-				  [9725, 3782], [8983, 2721]               ],
-				[ [8749, 3076], [4768, 3190], [6738, 4532],
-				  [9546, 3825], [6983, 4831]               ]
-			];
-
-			var width = 1000, height = 1000;
-			var viewColors = [  "blue",
-								"gold",
-								"green",
-								"red",
-								"maroon"
-					];
-			var interactionColors = [  "lightblue",
-									   "yellow",
-									   "lightgreen",
-									   "lightcoral",
-									   "indianred"
-					];
-
-			var week = 0, scale = 100;
-
-			var svg = d3.select("div.main").append("svg")
-			   .attr("width", width)
-			   .attr("height", height)
-			   .selectAll("g")
-			   .data(viewsAndInteraction[week])
-			   .enter();
-
-			var g = svg.append("g")
-				.attr("transform", function(d,i){
-
-			var x = 10000,  y = 10000;
-
-			if (!(i%2)){
-			  for (var count=0;
-				   count<i;
-				   count++)
-					 x+=viewsAndInteraction[week][count][0];
-			  for (var count=0;
-				   count<=i;
-				   count++)
-					 y+=viewsAndInteraction[week][count][0];
-			  } else {
-			  for (var count=0;
-				   count<i;
-				   count++)
-					 y+=viewsAndInteraction[week][count][0];
-			  for (var count=0;
-				   count<=i;
-				   count++)
-					 x+=viewsAndInteraction[week][count][0];
-			  }
-			  return "translate(" + x/scale + "," + y/scale + ")"}
-					);
-
-			g.append("circle")
-			  .attr("r", function(d){return d[0]/scale})
-			  .style("fill", function(d, i){return viewColors[i];});
-
-			g.append("circle")
-			  .attr("r", function(d){return d[1]/scale})
-			  .style("fill", function(d, i){return interactionColors[i];});
-
-			g.append("text")
-			  .attr("x", -15)
-			  .attr("y", function(d){return (15 + d[1]/scale);})
-			  .attr("fill", "white")
-			  .text(function(d){return d[0]});
-
-			g.append("text")
-			  .attr("x", -15)
-			  .attr("y", 5)
-
-			  .text(function(d){return d[1]});
+			
 		</script>
 
 		<!-- TODO: Set up GA.
