@@ -38,9 +38,13 @@ PSB.Model = (function ($) {
 			var query = new Parse.Query(BudgetRoot);
 			query.limit(1).first({
 				success: function(rootNode) {
-					_fetchChildNodes(rootNode, function (childNodes) {
-						successCallback(rootNode.toJSON(), _parseArrayToJson(childNodes));
-					});
+					if (rootNode) {
+						_fetchChildNodes(rootNode, function (childNodes) {
+							successCallback(rootNode.toJSON(), _parseArrayToJson(childNodes));
+						});
+					} else {
+						PSB.Controller.handleError('No budget root node found.');
+					}
 				},
 				error: _handleParseError
 			});
