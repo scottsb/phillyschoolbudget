@@ -1,8 +1,20 @@
 PSB.Model = (function ($) {
 	"use strict";
 
-	function handleParseError(errObj) {
+	function _handleParseError(errObj) {
 		PSB.Controller.handleError('Parse Error ' + errObj.code + ': ' + errObj.message);
+	}
+
+	function _fetchChildNodes(parentNode, successCallback) {
+		var query = new Parse.Query(BudgetRoot);
+		query.equalTo("parent", parentNode).find({
+			success: successCallback,
+			error: _handleParseError
+		});
+	}
+
+	function _parseArrayToJson(objArray) {
+		return objArray.map(function (obj) { return obj.toJSON(); });
 	}
 
 	return {
@@ -13,32 +25,30 @@ PSB.Model = (function ($) {
 		},
 
 		/*
-		 * Fetch the root budget node from which all other nodes descend.
+		 * Fetch the root budget level from which all other categories descend.
 		 */
-		fetchRootNode: function (rootReadyCallback) {
+		fetchBudgetRoot: function (successCallback) {
 			var BudgetRoot = Parse.Object.extend("BudgetRoot");
 			var query = new Parse.Query(BudgetRoot);
 			query.limit(1).first({
 				success: function(rootNode) {
-					var query = new Parse.Query(Comment);
-					query.equalTo("parent", rootNode);
-					query.find({
-						success: function(firstChildren) {
-							// TODO: Turn Parse objects into raw JS objects for encapsulation.
-
-							rootReadyCallback(rootNode, firstChildren);
-						},
-						error: handleParseError
+					_fetchChildNodes(rootNode, function (childNodes) {
+						successCallBack(_parseArrayToJson(childNodes));
 					});
 				},
-				error: handleParseError
+				error: _handleParseError
 			});
 		},
 
 		/*
-		 * Fetch the child budget node from a given parent.
+		 * Fetch the budget subcategories for the parent category specified by ID.
 		 */
-		fetchChildNodes: function (parent, readyCallback) {
+		fetchBudgetChildren: function (parentId, successCallback) {
+			var parentNode = new BudgetNode();
+			parentNode.id = parentId;
+			_fetchChildNodes(parentNode, function (childNodes) {
+				successCallBack(_parseArrayToJson(childNodes));
+			});
 		}
 	};
 }(jQuery));
