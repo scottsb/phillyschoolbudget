@@ -2,11 +2,11 @@ PSB.Model = (function ($) {
 	"use strict";
 
 	var BudgetNode = Parse.Object.extend("BudgetNode");
-	var CostCenter = Parse.Object.extend("CostCenter");
-	var FundingType = Parse.Object.extend("FundingType");
+	var Funding = Parse.Object.extend("Funding");
+	var FundingSource = Parse.Object.extend("FundingSource");
 
 	function _handleParseError(errObj) {
-		PSB.Controller.handleError('Parse Error ' + errObj.code + ': ' + errObj.message);
+		PSB.Controller.handleError("Parse Error " + errObj.code + ": " + errObj.message);
 	}
 
 	function _fetchChildNodes(parentNode, successCallback) {
@@ -38,14 +38,14 @@ PSB.Model = (function ($) {
 		 */
 		fetchBudgetRoot: function (successCallback) {
 			var query = new Parse.Query(BudgetNode);
-			query.doesNotExist('parent').limit(1).first({
+			query.doesNotExist("parent").limit(1).first({
 				success: function(rootNode) {
 					if (rootNode) {
 						_fetchChildNodes(rootNode, function (childNodes) {
 							successCallback(rootNode.toJSON(), _parseArrayToJson(childNodes));
 						});
 					} else {
-						PSB.Controller.handleError('No budget root node found.');
+						PSB.Controller.handleError("No budget root node found.");
 					}
 				},
 				error: _handleParseError
@@ -61,6 +61,40 @@ PSB.Model = (function ($) {
 			parentNode.id = parentId;
 			_fetchChildNodes(parentNode, function (childNodes) {
 				successCallback(_parseArrayToJson(childNodes));
+			});
+		},
+
+		/*
+		 * Fetch all possible funding sources to populate into scenario system.
+		 * Callback receives one arg, an array of JS objects containing funding source data.
+		 */
+		fetchFundingSources: function (successCallback) {
+			var query = new Parse.Query(FundingSource);
+			query.find({
+				success: function(fundingSources) {
+					successCallback(_parseArrayToJson(fundingSources));
+				},
+				error: _handleParseError
+			});
+		},
+
+		/*
+		 * Fetch all budget items for a given funding source.
+		 * Callback receives one arg, an array of JS objects containing funding source data.
+		 */
+		fetchBudgetItemsByFunding: function (fundingId, successCallback) {
+			var fundingSource = new FundingSource();
+			fundingSource.id = fundingId;
+
+			var fundingQuery = new Parse.Query(Funding);
+			fundingQuery.equalTo("source", fundingSource);
+			var nodeQuery = new Parse.Query(BudgetNode);
+			nodeQuery.matchesQuery("funding", fundingQuery);
+			nodeQuery.find({
+				success: function (budgetNodes) {
+					successCallback(_parseArrayToJson(budgetNodes));
+				},
+				error: _handleParseError
 			});
 		}
 	};
