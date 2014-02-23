@@ -32,6 +32,7 @@ body { font: 16px/26px Helvetica, Helvetica Neue, Arial; }
    =================== */
 
 header { position:absolute; left:0px; top:0px; }
+	div.menuTab { width:30px; height:19px; background:url(../images/misc/hamburger.png) no-repeat; cursor:pointer; }
 
 .main-container { width:100%; height:100%; overflow:hidden; }
 
@@ -141,6 +142,16 @@ nav a:hover { text-decoration: underline; }
 .clearfix:after { clear: both; }
 
 .clearfix { *zoom: 1; }
+
+/* ==========================================================================
+   Retina Image Styles
+   ========================================================================== */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+	#menuTab { background-image:url(../images/misc/hamburger@2x.png); background-size:30px 19px; }
+}
 
 /* ==========================================================================
    Print styles
