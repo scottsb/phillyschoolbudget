@@ -9,7 +9,7 @@ PSB.Controller = (function ($) {
 		},
 
 		handleError: function(msg) {
-			alert(msg);
+			console && console.error('APP:: ' + msg);
 		}
 	};
 }(jQuery));
