@@ -56,7 +56,7 @@ PSB.Model = (function ($) {
 			var parentNode = new BudgetNode();
 			parentNode.id = parentId;
 			_fetchChildNodes(parentNode, function (childNodes) {
-				successCallBack(_parseArrayToJson(childNodes));
+				successCallback(_parseArrayToJson(childNodes));
 			});
 		}
 	};
