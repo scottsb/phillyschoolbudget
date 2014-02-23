@@ -32,6 +32,9 @@ PSB.Model = (function ($) {
 
 		/*
 		 * Fetch the root budget level from which all other categories descend.
+		 * Callback receives two args:
+		 *  - JS object containing root budget data
+		 *  - array of JS objects containing children's budget data
 		 */
 		fetchBudgetRoot: function (successCallback) {
 			var query = new Parse.Query(BudgetNode);
@@ -51,6 +54,7 @@ PSB.Model = (function ($) {
 
 		/*
 		 * Fetch the budget subcategories for the parent category specified by ID.
+		 * Callback receives one arg, an array of JS objects containing children's budget data.
 		 */
 		fetchBudgetChildren: function (parentId, successCallback) {
 			var parentNode = new BudgetNode();
