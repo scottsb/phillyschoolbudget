@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<budgetNode>
+<budgetNode name="Philadelphia School Budget">
     <budgetNode name="School Budgets">
 <budgetNode name='District Operated Schools - Instructional'>
 <budgetNode name='Elementary - K-8 Education'>
@@ -4174,7 +4174,7 @@
 <funding source='Operating' amount='0' />
 </budgetNode>
 </budgetNode>
-<budgetNode name='General Counsel's Office'>
+<budgetNode name='General Counsel&apos;s Office'>
 <budgetNode name='Cost Of Fulltime Positions' leaf='true'>
 <funding source='Operating' amount='1699998' />
 <funding source='Categorical' amount='98000' />
@@ -4390,7 +4390,7 @@
 <funding source='Capital' amount='0' />
 </budgetNode>
 </budgetNode>
-<budgetNode name='Inspector General's Office'>
+<budgetNode name='Inspector General&apos;s Office'>
 <budgetNode name='Cost Of Fulltime Positions' leaf='true'>
 <funding source='Operating' amount='260650' />
 </budgetNode>
