@@ -1,7 +1,7 @@
 <budgetNode>
-	<budgetNode name="School Budgets" amount="">
-		<budgetNode name="District Operated Schools - Instructional" amount="1314656037">
-			<budgetNode name="Elementary - K-8 Education" amount="509911885">
+	<budgetNode name="School Budgets">
+		<budgetNode name="District Operated Schools - Instructional">
+			<budgetNode name="Elementary - K-8 Education">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="268638396" />
 					<funding source="uPq29o1ob3" amount="59787102" />
@@ -22,7 +22,7 @@
 				</budgetNode>
 				<!--etc-->
 			</budgetNode>
-			<budgetNode name="Middle School Education" amount="83111090">
+			<budgetNode name="Middle School Education">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="46638691" />
 					<funding source="uPq29o1ob3" amount="5589549" />
@@ -41,13 +41,11 @@
 					<funding source="uPq29o1ob3" amount="91851" />
 					<funding source="uPq29o1ob3" amount="2000" />
 				</budgetNode>
-				<funding source="uPq29o1ob3" amount="50" />
-				<funding source="uPq29o1ob3" amount="100" />
 			</budgetNode>
 		</budgetNode>
-		<budgetNode name="District Operated Schools - Instructional Support" amount="37693456">
-			<budgetNode name="Professional Development" amount="22925763" leaf="true">
-				<budgetNode name="Cost of Fulltime Positions">
+		<budgetNode name="District Operated Schools - Instructional Support">
+			<budgetNode name="Professional Development">
+				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="0" />
 					<funding source="uPq29o1ob3" amount="9252637" />
 				</budgetNode>
@@ -67,16 +65,16 @@
 					<funding source="uPq29o1ob3" amount="2477377" />
 				</budgetNode>
 			</budgetNode>
-			<budgetNode name="Partnership Schools - EMOs -- Additional Payments" amount="0">
+			<budgetNode name="Partnership Schools - EMOs -- Additional Payments">
 				<budgetNode name="Contracted Serv-Prof/Tech" leaf="true">
 					<funding source="uPq29o1ob3" amount="0" />
 				</budgetNode>
 			</budgetNode>
 		</budgetNode>
 	</budgetNode>
-	<budgetNode name="Administrative Support Operations" amount="">
-		<budgetNode name="Chief Academic Officer" amount="39877347">
-			<budgetNode name="Chief Academic Office" amount="4725486">
+	<budgetNode name="Administrative Support Operations">
+		<budgetNode name="Chief Academic Officer">
+			<budgetNode name="Chief Academic Office">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="1393204" />
 					<funding source="uPq29o1ob3" amount="0" />
@@ -94,7 +92,7 @@
 					<funding source="uPq29o1ob3" amount="16405" />
 				</budgetNode>
 			</budgetNode>
-			<budgetNode name="Accountability, Equity, &amp; Compliance Office" amount="5152788">
+			<budgetNode name="Accountability, Equity, &amp; Compliance Office">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="1950252" />
 					<funding source="uPq29o1ob3" amount="904218" />
@@ -113,8 +111,8 @@
 				</budgetNode>
 			</budgetNode>
 		</budgetNode>
-		<budgetNode name="Chief Student Support Services" amount="5055166">
-			<budgetNode name="Chief Student Support Services Office" amount="0">
+		<budgetNode name="Chief Student Support Services">
+			<budgetNode name="Chief Student Support Services Office">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="0" />
 					<funding source="uPq29o1ob3" amount="0" />
@@ -123,7 +121,7 @@
 					<funding source="uPq29o1ob3" amount="0" />
 				</budgetNode>
 			</budgetNode>
-			<budgetNode name="Student Placement &amp; Enrollment" amount="1389273">
+			<budgetNode name="Student Placement &amp; Enrollment">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="766370" />
 					<funding source="uPq29o1ob3" amount="0" />
@@ -148,4 +146,4 @@
 </budgetRoot>
 
 <fundingSource id="uPq29o1ob3" name="Operating" />
-<fundingSource id="uPq29o1ob3" name="Categorical" />
+<fundingSource id="uPq29o1ob4" name="Categorical" />
