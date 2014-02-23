@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fundingSources>
+<funding source='Operating' id='Operating' />
+<funding source='Categorical' id='Categorical' />
+<funding source='Other' id='Other' />
+<funding source='Capital' id='Capital' />
+</fundingSources>
