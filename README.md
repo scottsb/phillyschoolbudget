@@ -18,4 +18,6 @@ Good ideas that are less likely or further future:
   * From school year to school year, in comparison with closing schools.
 
 ## History
-This application was originally built for the Philly Codefest 2014 held Feb. 22-23. The team consisted of [Scott Buchanan](@thescottsb), [Tom Mount](@tmountjr), [Oren Panitch](@opanitch) and [Liz Brown](@lizbrownsays). Our initial planning document is archived here: http://goo.gl/o68GEw.
+This application was originally built for the Philly Codefest 2014 held Feb. 22-23. The team consisted of [Scott Buchanan](http://twitter.com/thescottsb), [Tom Mount](http://twitter.com/tmountjr), [Oren Panitch](http://twitter.com/opanitch) and [Liz Brown](http://twitter.com/lizbrownsays).
+
+Our initial planning document is archived here: http://goo.gl/o68GEw.
