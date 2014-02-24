@@ -108,7 +108,7 @@
                 $cost_center_id = substr($lineitem_contents[2], 0, 4);
                 $cost_center_desc = htmlentities(substr($lineitem_contents[2], 7), ENT_QUOTES);
                 $details[$lineitem_contents[0]][$cost_center_id]['desc'] = $cost_center_desc;
-                $details[$lineitem_contents[0]][$cost_center_id]['details'][$lineitem_contents[1]] = $lineitem_contents[6];    //this is the FY14 budget number. Adjust the last "$lineitem_contents[1]" for other years.
+				$details[$lineitem_contents[0]][$cost_center_id]['details'][$lineitem_contents[1]] = $lineitem_contents[6];    //this is the FY14 budget number. Adjust the last "$lineitem_contents[1]" for other years.
             }
             
             $budget_line_name = htmlentities($summary[0], ENT_QUOTES);
@@ -119,8 +119,8 @@
                 $functional_area = htmlentities($fa, ENT_QUOTES);
                 $xmldoc .= "\t\t\t<budgetNode name='{$functional_area}'>\n";
                 foreach ($details[$fa_id] as $this_cost_center_id => $arrCostCenterDetails) {
-                    $this_cost_center_desc = htmlentities($arrCostCenterDetails['desc'], ENT_QUOTES);
-                    $xmldoc .= "\t\t\t\t<budgetNode name='{$this_cost_center_desc}'>\n";
+                    //$this_cost_center_desc = htmlentities($arrCostCenterDetails['desc'], ENT_QUOTES);
+                    $xmldoc .= "\t\t\t\t<budgetNode name='{$arrCostCenterDetails['desc']}'>\n";
                     foreach ($arrCostCenterDetails['details'] as $source => $amount) {
                         $this_funding_source = htmlentities($source, ENT_QUOTES);
                         $xmldoc .= "\t\t\t\t\t<funding source='{$this_funding_source}' amount='{$amount}' />\n";

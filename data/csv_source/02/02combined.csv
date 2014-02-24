@@ -1,17 +1,85 @@
-Operating,,,,,
-1000 - Cost Of Fulltime Positions,"59,059",0,0,0,0
-1198 - Insurance Recoveries,0,0,0,0,0
-1199 - Turnover & Delayed Hiring,0,0,0,0,0
-1311 - Overtime,"3,771",0,0,0,0
-2000 - Employee Benefits,"23,979",0,0,0,0
-3000 - Contracted Serv-Prof/Tech,0,0,0,0,0
-5000 - Contr Serv-Trans/Comm/Other,0,0,0,0,0
-6000 - Materials & Supplies,0,0,0,0,0
-7000 - Equipment,0,0,0,0,0
-,,,,,
-Categorical,,,,,
-1000 - Cost Of Fulltime Positions,0,0,0,0,0
-1311 - Overtime,190,0,0,0,0
-2000 - Employee Benefits,31,0,0,0,0
-5000 - Contr Serv-Trans/Comm/Other,-742,0,0,0,0
-6000 - Materials & Supplies,-268,0,0,0,0
+1,Operating,1000 - Cost Of Fulltime Positions,59059,0,0,0,0
+1,Operating,1198 - Insurance Recoveries,0,0,0,0,0
+1,Operating,1199 - Turnover & Delayed Hiring,0,0,0,0,0
+1,Operating,1311 - Overtime,3771,0,0,0,0
+1,Operating,2000 - Employee Benefits,23979,0,0,0,0
+1,Operating,3000 - Contracted Serv-Prof/Tech,0,0,0,0,0
+1,Operating,5000 - Contr Serv-Trans/Comm/Other,0,0,0,0,0
+1,Operating,6000 - Materials & Supplies,0,0,0,0,0
+1,Operating,7000 - Equipment,0,0,0,0,0
+1,Categorical,1000 - Cost Of Fulltime Positions,0,0,0,0,0
+1,Categorical,1311 - Overtime,190,0,0,0,0
+1,Categorical,2000 - Employee Benefits,31,0,0,0,0
+1,Categorical,5000 - Contr Serv-Trans/Comm/Other,-742,0,0,0,0
+1,Categorical,6000 - Materials & Supplies,-268,0,0,0,0
+2,Operating,1000 - Cost Of Fulltime Positions,577773,683242,760282,766370,6087
+2,Operating,1198 - Insurance Recoveries,0,-683,-760,-766,-6
+2,Operating,1199 - Turnover & Delayed Hiring,0,-10900,0,0,0
+2,Operating,1211 - Per Diem Substitute Service,0,0,0,0,0
+2,Operating,1311 - Overtime,22566,21060,21060,21060,0
+2,Operating,1511 - Extra Curricular,10859,22730,75876,75876,0
+2,Operating,2000 - Employee Benefits,266823,406032,429386,469121,39736
+2,Operating,3000 - Contracted Serv-Prof/Tech,0,0,0,0,0
+2,Operating,4000 - Contracted Servs - Property,0,0,0,0,0
+2,Operating,5000 - Contr Serv-Trans/Comm/Other,19710,2930,2929,2929,0
+2,Operating,6000 - Materials & Supplies,1254,3182,3182,3182,0
+2,Operating,7000 - Equipment,1380,1380,1380,1380,0
+2,Operating,8000 - Scholarships & Stipends,0,187,187,187,0
+2,Categorical,1000 - Cost Of Fulltime Positions,75723,94181,2273878,0,-2273878
+2,Categorical,1211 - Per Diem Substitute Service,0,0,0,0,0
+2,Categorical,1311 - Overtime,0,0,1784,0,-1784
+2,Categorical,1511 - Extra Curricular,0,0,161532,0,-161532
+2,Categorical,1611 - Professional Development,0,0,74672,0,-74672
+2,Categorical,1861 - Employee Insurance Opt-Out,0,0,0,0,0
+2,Categorical,2000 - Employee Benefits,28299,44853,1370336,0,-1370336
+2,Categorical,3000 - Contracted Serv-Prof/Tech,0,0,18584,0,-18584
+2,Categorical,4000 - Contracted Servs - Property,0,0,5300,0,-5300
+2,Categorical,5000 - Contr Serv-Trans/Comm/Other,0,0,7041,1464,-5577
+2,Categorical,6000 - Materials & Supplies,0,0,199335,0,-199335
+2,Categorical,6400 - Books/Instructional Aids,0,0,0,0,0
+2,Categorical,7000 - Equipment,0,0,25531,0,-25531
+2,Categorical,8000 - Scholarships & Stipends,0,0,2550,48470,45920
+3,Operating,1000 - Cost Of Fulltime Positions,549237,628813,439992,489411,49419
+3,Operating,1198 - Insurance Recoveries,0,-629,-440,-489,-49
+3,Operating,1199 - Turnover & Delayed Hiring,0,-9900,0,-60757,-60757
+3,Operating,1311 - Overtime,2034,2130,2130,2130,0
+3,Operating,1511 - Extra Curricular,0,27093,27093,27093,0
+3,Operating,1861 - Employee Insurance Opt-Out,1645,0,0,0,0
+3,Operating,2000 - Employee Benefits,257192,368650,251593,281066,29473
+3,Operating,3000 - Contracted Serv-Prof/Tech,450000,454241,717241,717241,0
+3,Operating,4000 - Contracted Servs - Property,0,0,0,0,0
+3,Operating,5000 - Contr Serv-Trans/Comm/Other,24664,24610,24610,24610,0
+3,Operating,6000 - Materials & Supplies,5504,3734,3734,3734,0
+3,Operating,7000 - Equipment,0,4397,4397,4397,0
+3,Categorical,5000 - Contr Serv-Trans/Comm/Other,1079,0,0,0,0
+3,Categorical,6000 - Materials & Supplies,0,0,0,0,0
+3,Categorical,6400 - Books/Instructional Aids,76,0,0,0,0
+4,Operating,1000 - Cost Of Fulltime Positions,1003566,729377,635494,723582,88088
+4,Operating,1198 - Insurance Recoveries,0,-729,-635,-724,-88
+4,Operating,1199 - Turnover & Delayed Hiring,0,-15800,0,-101259,-101259
+4,Operating,2000 - Employee Benefits,537945,395753,322425,360615,38189
+4,Operating,5000 - Contr Serv-Trans/Comm/Other,1300,0,23000,23000,0
+4,Operating,6000 - Materials & Supplies,0,324,324,324,0
+5,Operating,1000 - Cost Of Fulltime Positions,843197,1011013,573093,587785,14692
+5,Operating,1198 - Insurance Recoveries,0,-13698,-7959,-8161,-202
+5,Operating,1199 - Turnover & Delayed Hiring,0,-21700,0,0,0
+5,Operating,1511 - Extra Curricular,7113,12335,3500,3500,0
+5,Operating,1611 - Professional Development,0,0,5397,5397,0
+5,Operating,1899 - Bonus,0,0,0,0,0
+5,Operating,2000 - Employee Benefits,411410,630781,353406,381822,28416
+5,Operating,3000 - Contracted Serv-Prof/Tech,207400,236930,160785,160785,0
+5,Operating,5000 - Contr Serv-Trans/Comm/Other,131,0,0,0,0
+5,Operating,6000 - Materials & Supplies,31980,58643,124798,20793,-104005
+5,Operating,6400 - Books/Instructional Aids,23373,42307,15995,0,-15995
+5,Operating,7000 - Equipment,5009,0,0,0,0
+5,Operating,9000 - Other Uses Of Funds,0,0,0,0,0
+5,Categorical,3000 - Contracted Serv-Prof/Tech,0,0,0,0,0
+5,Categorical,6000 - Materials & Supplies,0,0,0,0,0
+5,Categorical,7000 - Equipment,0,0,20000,20000,0
+6,Operating,1000 - Cost Of Fulltime Positions,113502,0,0,0,0
+6,Operating,1198 - Insurance Recoveries,0,0,0,0,0
+6,Operating,1199 - Turnover & Delayed Hiring,0,0,0,0,0
+6,Operating,1511 - Extra Curricular,0,0,0,0,0
+6,Operating,2000 - Employee Benefits,49954,0,0,0,0
+6,Operating,5000 - Contr Serv-Trans/Comm/Other,40,0,0,0,0
+6,Operating,6000 - Materials & Supplies,1493,0,0,0,0
