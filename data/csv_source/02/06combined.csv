@@ -1,0 +1,34 @@
+1,Operating,1000 - Cost Of Fulltime Positions,2,0,445445,491740,46295
+1,Operating,1198 - Insurance Recoveries,0,0,-444,-490,-46
+1,Operating,1199 - Turnover & Delayed Hiring,0,0,0,-42127,-42127
+1,Operating,1311 - Overtime,0,0,0,0,0
+1,Operating,1511 - Extra Curricular,66328,34565,34565,34565,0
+1,Operating,1861 - Employee Insurance Opt-Out,0,0,0,0,0
+1,Operating,2000 - Employee Benefits,11638,9878,269715,303886,34171
+1,Operating,3000 - Contracted Serv-Prof/Tech,33794,39000,130514,130514,0
+1,Operating,4000 - Contracted Servs - Property,0,0,0,0,0
+1,Operating,5000 - Contr Serv-Trans/Comm/Other,5868,16310,32110,32110,0
+1,Operating,6000 - Materials & Supplies,2947,3000,36032,36032,0
+1,Operating,7000 - Equipment,0,0,9000,9000,0
+1,Categorical,1000 - Cost Of Fulltime Positions,0,0,0,0,0
+1,Categorical,2000 - Employee Benefits,0,0,0,0,0
+1,Categorical,3000 - Contracted Serv-Prof/Tech,5507,0,0,0,0
+1,Categorical,5000 - Contr Serv-Trans/Comm/Other,37081,0,0,0,0
+1,Categorical,6000 - Materials & Supplies,10740,0,0,0,0
+1,Categorical,6400 - Books/Instructional Aids,0,0,0,0,0
+2,Operating,1000 - Cost Of Fulltime Positions,549181,446420,431547,454887,23340
+2,Operating,1198 - Insurance Recoveries,0,-446,-432,-455,-23
+2,Operating,1199 - Turnover & Delayed Hiring,0,-9600,0,-30127,-30127
+2,Operating,1311 - Overtime,21491,19867,19867,19867,0
+2,Operating,1511 - Extra Curricular,27078,27988,27988,27988,0
+2,Operating,2000 - Employee Benefits,283071,246010,210695,237871,27175
+2,Operating,3000 - Contracted Serv-Prof/Tech,5345,5345,20345,20345,0
+2,Operating,4000 - Contracted Servs - Property,12750,6757,6757,6757,0
+2,Operating,5000 - Contr Serv-Trans/Comm/Other,17629,3865,3865,3865,0
+2,Operating,6000 - Materials & Supplies,8915,9086,9086,9086,0
+2,Operating,6400 - Books/Instructional Aids,86,16856,15856,16856,1000
+2,Operating,7000 - Equipment,0,140,140,140,0
+2,Operating,8000 - Scholarships & Stipends,0,0,0,0,0
+2,Categorical,3000 - Contracted Serv-Prof/Tech,0,0,225000,75000,-150000
+2,Categorical,5000 - Contr Serv-Trans/Comm/Other,0,0,1000,0,-1000
+2,Categorical,6000 - Materials & Supplies,26987,50000,84000,18000,-66000
