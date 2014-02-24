@@ -11,7 +11,7 @@ Features on the roadmap for the near future:
 * **Scenarios:** Allow users to "crowd source" solutions, adjusting funding sources or expense categories, and then share that solution via a short link or social media.
 * **Year-to-year comparisons:** Compare data between years, visually showing the changes.
 
-Ideas that are unlikely or far future: 
+Good ideas that are less likely or farther future: 
 * **Comparisons:** Comparisons of the Philly budget with suburban districts and/or other cities.
 * **Enrollment:** Maps of where public school enrollment is shifting:
   * In comparison to charter school locations.
