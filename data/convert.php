@@ -34,21 +34,20 @@ foreach ($data as $lineitem) {
     $det[$li[0]][$cost_id]['details'][$li[1]] = $li[6];
 }
 
-//print_r($summary);
-//print_r($det);
-
 $assembled = "<budgetNode name='District-Wide Gap Closing Measures'>\n";
 
 foreach ($summary as $fa_id => $fa) {
-    $assembled .= "<budgetNode name='{$fa}'>\n";
+    $fa_special = htmlspecialchars($fa, ENT_QUOTES);
+    $assembled .= "\t<budgetNode name='{$fa_special}'>\n";
     foreach ($det[$fa_id] as $cost_center_id => $arrCostCenterDetails) {
-        $assembled .= "<budgetNode name='{$arrCostCenterDetails['desc']}' leaf='true'>\n";
+        $cost_center_desc = htmlspecialchars($arrCostCenterDetails['desc'], ENT_QUOTES);
+        $assembled .= "\t\t<budgetNode name='{$cost_center_desc}' leaf='true'>\n";
         foreach ($arrCostCenterDetails['details'] as $ccSource => $ccAmount) {
-            $assembled .= "<funding source='{$ccSource}' amount='{$ccAmount}' />\n";
+            $assembled .= "\t\t\t<funding source='{$ccSource}' amount='{$ccAmount}' />\n";
         }
-        $assembled .= "</budgetNode>\n";
+        $assembled .= "\t\t</budgetNode>\n";
     }
-    $assembled .= "</budgetNode>\n";
+    $assembled .= "\t</budgetNode>\n";
 }
 
 $assembled .= "</budgetNode>\n";
