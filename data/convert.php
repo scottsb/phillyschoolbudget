@@ -9,7 +9,6 @@ $summary_s = <<<s
 s;
 
 $data = explode("\n", $summary_s);
-//$summary = array_map("str_getcsv", $data);
 foreach ($data as $lineitem) {
     $lis = explode(",", $lineitem);
     $summary[$lis[0]] = $lis[1];
