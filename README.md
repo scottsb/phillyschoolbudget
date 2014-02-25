@@ -21,3 +21,5 @@ Good ideas that are less likely or further future:
 This application was originally built for the Philly Codefest 2014 held Feb. 22-23. The team consisted of [Scott Buchanan](http://twitter.com/thescottsb), [Tom Mount](http://twitter.com/tmountjr), [Oren Panitch](http://twitter.com/opanitch) and [Liz Brown](http://twitter.com/lizbrownsays).
 
 Our initial planning document is archived here: http://goo.gl/o68GEw.
+
+It was originally inspired by [Bulldog Budget](https://github.com/bengarvey/budget) by [Ben Garvey](http://twitter.com/bengarvey).
