@@ -10,37 +10,12 @@
 				<budgetNode name="Insurance Recoveries" leaf="true">
 					<funding source="uPq29o1ob3" amount="-8372145" />
 				</budgetNode>
-				<budgetNode name="Turnover and Delayed Hiring" leaf="true">
-					<funding source="uPq29o1ob3" amount="-11698322" />
-				</budgetNode>
-				<budgetNode name="Per Diem Substitute Service" leaf="true">
-					<funding source="uPq29o1ob3" amount="4557" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Overtime" leaf="true">
-					<funding source="uPq29o1ob3" amount="227285" />
-					<funding source="uPq29o1ob4" amount="8038" />
-				</budgetNode>
 				<!--etc-->
 			</budgetNode>
 			<budgetNode name="Middle School Education">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="46638691" />
 					<funding source="uPq29o1ob4" amount="5589549" />
-				</budgetNode>
-				<budgetNode name="Insurance Recoveries" leaf="true">
-					<funding source="uPq29o1ob3" amount="-652942" />
-				</budgetNode>
-				<budgetNode name="Turnover &amp; Delayed Hiring" leaf="true">
-					<funding source="uPq29o1ob4" amount="-965114" />
-				</budgetNode>
-				<budgetNode name="Per Diem Substitute Service" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Overtime" leaf="true">
-					<funding source="uPq29o1ob3" amount="91851" />
-					<funding source="uPq29o1ob4" amount="2000" />
 				</budgetNode>
 			</budgetNode>
 		</budgetNode>
@@ -50,26 +25,6 @@
 					<funding source="uPq29o1ob3" amount="0" />
 					<funding source="uPq29o1ob4" amount="9252637" />
 				</budgetNode>
-				<budgetNode name="Per Diem Substitute Service" leaf="true">
-					<funding source="uPq29o1ob3" amount="140382" />
-				</budgetNode>
-				<budgetNode name="Overtime" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Extra Curricular" leaf="true">
-					<funding source="uPq29o1ob3" amount="13834" />
-					<funding source="uPq29o1ob4" amount="24202" />
-				</budgetNode>
-				<budgetNode name="Professional Development" leaf="true">
-					<funding source="uPq29o1ob3" amount="129101" />
-					<funding source="uPq29o1ob4" amount="2477377" />
-				</budgetNode>
-			</budgetNode>
-			<budgetNode name="Partnership Schools - EMOs -- Additional Payments">
-				<budgetNode name="Contracted Serv-Prof/Tech" leaf="true">
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
 			</budgetNode>
 		</budgetNode>
 	</budgetNode>
@@ -78,67 +33,6 @@
 			<budgetNode name="Chief Academic Office">
 				<budgetNode name="Cost of Fulltime Positions" leaf="true">
 					<funding source="uPq29o1ob3" amount="1393204" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Insurance Recoveries" leaf="true">
-					<funding source="uPq29o1ob3" amount="-1393" />
-				</budgetNode>
-				<budgetNode name="Turnover &amp; Delayed Hiring" leaf="true">
-					<funding source="uPq29o1ob3" amount="-79373" />
-				</budgetNode>
-				<budgetNode name="Per Diem Substitute Service" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-				</budgetNode>
-				<budgetNode name="Overtime" leaf="true">
-					<funding source="uPq29o1ob3" amount="16405" />
-				</budgetNode>
-			</budgetNode>
-			<budgetNode name="Accountability, Equity, &amp; Compliance Office">
-				<budgetNode name="Cost of Fulltime Positions" leaf="true">
-					<funding source="uPq29o1ob3" amount="1950252" />
-					<funding source="uPq29o1ob4" amount="904218" />
-				</budgetNode>
-				<budgetNode name="Insurance Recoveries" leaf="true">
-					<funding source="uPq29o1ob3" amount="-1950" />
-				</budgetNode>
-				<budgetNode name="Turnover &amp; Delayed Hiring" leaf="true">
-					<funding source="uPq29o1ob3" amount="-214143" />
-				</budgetNode>
-				<budgetNode name="Per Diem Substitute Service" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-				</budgetNode>
-				<budgetNode name="Overtime" leaf="true">
-					<funding source="uPq29o1ob3" amount="1118" />
-				</budgetNode>
-			</budgetNode>
-		</budgetNode>
-		<budgetNode name="Chief Student Support Services">
-			<budgetNode name="Chief Student Support Services Office">
-				<budgetNode name="Cost of Fulltime Positions" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Insurance Recoveries" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-				</budgetNode>
-			</budgetNode>
-			<budgetNode name="Student Placement &amp; Enrollment">
-				<budgetNode name="Cost of Fulltime Positions" leaf="true">
-					<funding source="uPq29o1ob3" amount="766370" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Insurance Recoveries" leaf="true">
-					<funding source="uPq29o1ob3" amount="-766" />
-				</budgetNode>
-				<budgetNode name="Turnover &amp; Delayed Hiring" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-				</budgetNode>
-				<budgetNode name="Per Diem Substitute Service" leaf="true">
-					<funding source="uPq29o1ob3" amount="0" />
-					<funding source="uPq29o1ob4" amount="0" />
-				</budgetNode>
-				<budgetNode name="Overtime" leaf="true">
-					<funding source="uPq29o1ob3" amount="21060" />
 					<funding source="uPq29o1ob4" amount="0" />
 				</budgetNode>
 			</budgetNode>
