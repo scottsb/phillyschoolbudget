@@ -4,7 +4,9 @@ The data for this app was taken from the Philadelphia School District [budget PD
 
 To generate the CSV files, the data had to be "flattened." Rather than being grouped by Operational, Categorical, Capital and "Other" fund sources, I needed one big list combining them all. I copied each individual section out into a separate page and added the corresponding Functional Area id number and fund source for each copied row. Once each Functional Area for the budget line file had been copied, I saved that single sheet as a CSV file to serve as the "detail" file. This process was repeated for all of the budget line item files.
 
-My team and I decided upon a hierarchical XML structure for the data, so after creating each of the summary and detail CSV files, I moved them into a directory with the `converter.php` file and told the converter where to find all the files (documented below). The converter outputs an XML file by recursing through each detail file and arranging the data according to our template XML schema. Once the XML string had been generated, the converter returned the information as a well-formed XML document. This XML document provided the source for moving data into Parse.
+My team and I decided upon a hierarchical XML structure for the data, so after creating each of the summary and detail CSV files, I moved them into a directory with the `converter.php` file and told the converter where to find all the files (documented below). The converter outputs an XML file (after the structure of expenseTemplate.xml) by recursing through each detail file and arranging the data according to our template XML schema. Once the XML string had been generated, the converter returned the information as a well-formed XML document.
+
+This XML document was then copied into `parseUpload.html` where inline JavaScript parses the XML and uploads it to Parse Data (the BaaS product that powers the visualization).
 
 ## CSV to XML Script
 
