@@ -1,7 +1,8 @@
 # Philly School Budget Visualization
+
 This project is an interactive visualization of the Philadelphia School Budget, comparing funding with expenses.
 
-http://www.phillyschoolbudget.com/
+_Please Note: This project was begun at a hackathon but never completed past the data scraping stage._
 
 ## Target Audience
 This application is targeted to anybody with an interest in the recurring school budget crisis. Theoretically this should include any resident of Philly, since primary and secondary education are essential the future of our city, but it will be of greatest value to parents (prospective and current) and educators.
